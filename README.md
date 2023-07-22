@@ -1,3 +1,3 @@
-# U-net-from-strach
+# U-net-from-scratch
 
 With Pytorch
